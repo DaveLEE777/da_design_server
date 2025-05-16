@@ -1,5 +1,4 @@
-Python 3.8.10
-Flask 3.0.3
-Werkzeug 3.0.6
-
+Python >= 3.8.10
+Flask >= 2.1.1
 beautifulsoup4 >= 4.11.1
+pymongo >= 4.1.1
